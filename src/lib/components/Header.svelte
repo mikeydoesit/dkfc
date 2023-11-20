@@ -1,6 +1,6 @@
 <style>
     .header {
-        @apply flex flex-row h-auto w-full justify-between items-end pt-16 pb-4 px-3 bg-primary;
+        @apply flex flex-row h-auto w-full justify-between items-end pt-16 pb-4 px-4 bg-primary;
     }
     .left_col, .right_col {
         @apply h-auto flex flex-row items-center;

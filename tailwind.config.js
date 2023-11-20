@@ -8,7 +8,8 @@ export default {
       black: '#222831',
       highlight: '#ffbc10',
       primary: '#0e2b63',
-      transparent: 'transparent'
+      transparent: 'transparent',
+      grey_bg: '#ededed'
     },
     gridTemplateColumns: {
       'tapbarmenu': '1fr 1fr 1fr 1fr 1fr',
