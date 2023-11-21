@@ -7,6 +7,9 @@
 	import HomepageSlider from "../lib/components/HomepageSlider.svelte";
 </script>
 
+
+
+	
 <HomepageSlider />
 <HomepageIntro />
 <HomepageOpeningTimes />

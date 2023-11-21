@@ -12,7 +12,7 @@
         @apply border-2 bg-primary text-white;
     }
     .forgot {
-        @apply px-2;
+        @apply px-2 text-primary;
     }
 </style>
 
@@ -23,5 +23,5 @@
     <div class="login_btn btn">
         <span>MEMBER LOGIN</span>
     </div>
-    <a class="forgot" href="/auth">Forgot password</a>
+    <a class="forgot" href="/auth">Forgot password?</a>
 </section>
